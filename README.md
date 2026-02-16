@@ -99,7 +99,7 @@ GRANT CONNECT, RESOURCE TO hirwa_plsqlauca_29111;
 
 **PDB Creation Command:**
 
-![PDB Creation](screenshots/task1_pdb_creation.png)
+![PDB Creation](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/create_main_pdb.PNG)
 
 **PDB Open State:**
 
