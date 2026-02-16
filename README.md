@@ -161,7 +161,7 @@ SELECT name, open_mode FROM v$pdbs;
 
 **Deletion Confirmed (No longer in list):**
 
-![Temp PDB Confirmed Gone](screenshots/task2_temp_pdb_confirmed.png)
+![Temp PDB Confirmed Gone](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/confirmation.PNG)
 
 ---
 
