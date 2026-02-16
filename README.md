@@ -174,7 +174,8 @@ Oracle Enterprise Manager (OEM) was accessed and configured. The dashboard refle
 
 **OEM Dashboard:**
 
-![OEM Dashboard](screenshots/task3_oem_dashboard.png)
+![OEM Dashboard1](screenshots/task3_oem_dashboard.png)
+![OEM Dashboard2](screenshots/task3_oem_dashboard.png)
 
 ---
 
