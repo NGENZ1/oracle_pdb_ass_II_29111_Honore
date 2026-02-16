@@ -157,7 +157,7 @@ SELECT name, open_mode FROM v$pdbs;
 
 **PDB Deleted:**
 
-![Temp PDB Deleted](screenshots/task2_temp_pdb_deleted.png)
+![Temp PDB Deleted](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/Deleting_temp_pdb.PNG)
 
 **Deletion Confirmed (No longer in list):**
 
