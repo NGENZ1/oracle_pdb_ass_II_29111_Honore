@@ -153,7 +153,7 @@ SELECT name, open_mode FROM v$pdbs;
 
 **PDB Verified (Exists):**
 
-![Temp PDB Verified](screenshots/task2_temp_pdb_verified.png)
+![Temp PDB Verified](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/verify_temp_pdb.PNG)
 
 **PDB Deleted:**
 
