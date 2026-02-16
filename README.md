@@ -149,7 +149,7 @@ SELECT name, open_mode FROM v$pdbs;
 
 **Temporary PDB Created:**
 
-![Temp PDB Created](screenshots/task2_temp_pdb_created.png)
+![Temp PDB Created](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/create%20temp.PNG)
 
 **PDB Verified (Exists):**
 
