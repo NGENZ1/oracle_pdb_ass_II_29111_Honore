@@ -103,9 +103,9 @@ GRANT CONNECT, RESOURCE TO hirwa_plsqlauca_29111;
 
 **PDB Open State:**
 
-![PDB Open State](screenshots/task1_pdb_open.png)
+![PDB Open State](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/open_main_pdb.PNG)
 
-**User Created Inside PDB:**
+**Verify The Created PDB:**
 
 ![User Created](screenshots/task1_user_created.png)
 
