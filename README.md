@@ -107,7 +107,7 @@ GRANT CONNECT, RESOURCE TO hirwa_plsqlauca_29111;
 
 **Verify The Created PDB:**
 
-![User Created](screenshots/task1_user_created.png)
+![User Created](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/verify_main_pdb.PNG)
 
 ---
 
