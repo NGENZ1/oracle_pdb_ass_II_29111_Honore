@@ -175,7 +175,7 @@ Oracle Enterprise Manager (OEM) was accessed and configured. The dashboard refle
 **OEM Dashboard:**
 
 ![OEM Dashboard1](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/Dashboard%201.PNG)
-![OEM Dashboard2](screenshots/task3_oem_dashboard.png)
+![OEM Dashboard2](https://github.com/NGENZ1/oracle_pdb_ass_II_29111_Honore/blob/main/Dashboard%202.PNG)
 
 ---
 
