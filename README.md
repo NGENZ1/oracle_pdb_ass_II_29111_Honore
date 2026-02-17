@@ -89,7 +89,7 @@ ALTER PLUGGABLE DATABASE hi_pdb_29111 SAVE STATE;
 ALTER SESSION SET CONTAINER = hi_pdb_29111;
 
 -- Step 5: Create the user inside the PDB
-CREATE USER hirwa_plsqlauca_29111 IDENTIFIED BY [password];
+CREATE USER hirwa_plsqlauca_29111 IDENTIFIED BY honore29111;
 
 -- Step 6: Grant necessary privileges
 GRANT CONNECT, RESOURCE TO hirwa_plsqlauca_29111;
@@ -124,7 +124,7 @@ A temporary PDB was created, verified to exist, then completely dropped includin
 ```sql
 -- Step 1: Create the temporary PDB
 CREATE PLUGGABLE DATABASE hi_to_delete_pdb_29111
-ADMIN USER temp_admin IDENTIFIED BY [password];
+ADMIN USER temp_admin IDENTIFIED BY hirwa;
 
 -- Step 2: Open it to verify it works
 ALTER PLUGGABLE DATABASE hi_to_delete_pdb_29111 OPEN;
