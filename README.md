@@ -77,7 +77,7 @@ A new Pluggable Database was created from the PDB Seed using Oracle SQL Develope
 ```sql
 -- Step 1: Create the PDB
 CREATE PLUGGABLE DATABASE hi_pdb_29111
-ADMIN USER hirwa_plsqlauca_29111 IDENTIFIED BY [password];
+ADMIN USER hirwa_plsqlauca_29111 IDENTIFIED BY honore29111;
 
 -- Step 2: Open the PDB
 ALTER PLUGGABLE DATABASE hi_pdb_29111 OPEN;
